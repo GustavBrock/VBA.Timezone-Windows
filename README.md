@@ -64,9 +64,9 @@ Full documentation can be found in the two articles here:
 
 ![EE Logo](https://raw.githubusercontent.com/GustavBrock/VBA.Timezone-Windows/master/images/EE%20Logo.png) 
 
-[Time Zones, Windows, and VBA - Part 1](https://www.experts-exchange.com/articles/33988/Time-Zones-Windows-and-VBA-Part-1.html?preview=FiTsDOQDpMU%3D)
+[Time Zones, Windows, and VBA - Part 1](https://www.experts-exchange.com/articles/33988/Time-Zones-Windows-and-VBA-Part-1.html)
 
-[Time Zones, Windows, and Microsoft Office - Part 2](https://www.experts-exchange.com/articles/33997/Time-Zones-Windows-and-Microsoft-Office-Part-2.html?preview=X%2BUAuNJy3to%3D)
+[Time Zones, Windows, and Microsoft Office - Part 2](https://www.experts-exchange.com/articles/33997/Time-Zones-Windows-and-Microsoft-Office-Part-2.html)
 
 Included is a *Microsoft Access* example application and a *Microsoft Excel* example workbook.
 
